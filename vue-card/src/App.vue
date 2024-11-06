@@ -17,4 +17,8 @@ img{
   width: 16rem;
   border-radius: 1rem;
 }
+img:hover{
+  width: 18rem;
+  border-radius: 0;
+}
 </style>
